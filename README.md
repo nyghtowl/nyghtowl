@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [Project OCEAN](https://github.com/google/project-OCEAN)
 - ⚡ I used to build neural net software in Java
 - 🌱 I’m currently learning GCP and building data pipelines | ideas welcome
+- 🐦 Find me:[Twitter](https://twitter.com/nyghtowl) 
 
 <!--
 **nyghtowl/nyghtowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
