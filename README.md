@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Project OCEAN](https://github.com/google/project-OCEAN)
+- 🌱 I’m currently learning GCP and building data pipelines | ideas welcome
+
 <!--
 **nyghtowl/nyghtowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
