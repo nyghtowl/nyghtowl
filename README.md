@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Project OCEAN](https://github.com/google/project-OCEAN)
-- ⚡ I used to build neural net software in Java
+- 🔭 I’m currently working on ...
+- ⚡ I used to build neural net software in Java and I worked on [Project OCEAN](https://github.com/google/project-OCEAN) 
 - 🌱 I’m currently learning GCP and building data pipelines | ideas welcome
 - 🐦 Find me:[Twitter](https://twitter.com/nyghtowl) 
 
