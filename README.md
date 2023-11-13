@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on ...
 - ⚡ I used to build neural net software in Java and I worked on [Project OCEAN](https://github.com/google/project-OCEAN) 
-- 🐦 Find me:[Twitter](https://twitter.com/nyghtowl) 
 
 <!--
 **nyghtowl/nyghtowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
